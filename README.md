@@ -1,16 +1,24 @@
-# sih_crowd_source
+# PS Chosen SIH Hackathon
+## SIH25031 - Crowdsourced Civic lssue Reporting and Resolution System
 
-A new Flutter project.
+## Team Details
 
-## Getting Started
+**Team Name:** ACerebrum
 
-This project is a starting point for a Flutter application.
+**Team Leader:** @shreyaa1712
 
-A few resources to get you started if this is your first Flutter project:
+**Team Members:**
+* Harsh Kukreja - 2022UIC3552 - @kukrejaharsh
+* Pritish Mahajan - 2022UIC3506 - @pritish2005
+* Revant Bhatia - 2022UIC3546 - @revantbhatia
+* Rujul Pritwani - 2022UIC3502 - @rujul16
+* Mohit Vohra - 2022UIC3644 - @mohitvohraa
+* Shreyaa Jalan - 2022UIC3518 - @shreyaa1712
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Links
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+* **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
+* **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
+* **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
+* **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
