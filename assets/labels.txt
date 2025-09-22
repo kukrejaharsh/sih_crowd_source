@@ -1,0 +1,9 @@
+street_light
+road_accident
+pothole
+others
+nudity
+graphic_violence
+flood
+fire
+fallen_trees
